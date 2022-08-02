@@ -1,26 +1,23 @@
 {
-  "name": "floor12/yii2-summernote",
-  "description": "This Yii2 component helps to organize page title, meta tags and `og` and `twitter` open graph tags in with a fiew lines of code.",
+  "name": "floor12/yii2-text-counter-widget",
+  "description": "Yii2 widget to display number of letters in forms. ",
   "type": "yii2-component",
   "minimum-stability": "stable",
   "keywords": [
-    "floor12",
-    "yii2 component",
     "yii2 widget",
-    "summernote",
     "yii",
     "yii2",
     "yii 2"
   ],
   "require": {
     "php": ">=7.1.0",
-    "yiisoft/yii2": "~2.0.13"
+    "yiisoft/yii2": "~2.0.0"
   },
   "license": "MIT",
   "authors": [
     {
       "name": "floor12",
-      "email": "primelifecoder@gmail.com",
+      "email": "floor12@floor12.net",
       "role": "Developer"
     }
   ],
