@@ -1,0 +1,1 @@
+# yii2-text-counter-widget
